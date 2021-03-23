@@ -1,4 +1,4 @@
-# sanya-learning
+# makarushka-learning
 Учебный проект «Барбершоп»
 
 * Студент: [Вася Пупкин].
